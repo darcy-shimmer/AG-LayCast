@@ -13,10 +13,9 @@ Obtain the location information of access point in Beijing.
 > python3 apLoc.py
 
 ## Data Format
-![APLOC](APInf.png)
-![BSLOC](BSInf.png)
+
 Access point.
-[APLOC]
+![APLOC](APInf.png)
 
 Base station
-[BSLOC]
+![BSLOC](BSInf.png)
