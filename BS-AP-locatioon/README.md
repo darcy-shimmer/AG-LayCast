@@ -5,7 +5,7 @@ This directory contains code for obtaining BS/AP location information and data f
 * python3
 
 ## Usage
-<<<<<<< HEAD
+
 Obtain the location information of base station in Beijing.
 > python3 bsLoc.py
 
@@ -20,5 +20,3 @@ Access point.
 
 Base station
 [BSLOC]
-=======
->>>>>>> parent of 5f6c8fc... some changes
