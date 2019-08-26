@@ -13,7 +13,7 @@ This repository contains four datasets ([Twitch trace](https://clivecast.github.
 ## Usage
 ### The original stream
 Use yasea to push stream from mobile phone
-![Broadcast](pic\broadcaster-android.png)
+![Broadcast](pic/broadcaster-android.png)
 
 ### RTMP cluster deployment
 Reference: https://github.com/ossrs/srs/wiki/v1_CN_SampleRTMPCluster
