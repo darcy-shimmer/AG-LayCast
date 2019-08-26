@@ -15,6 +15,9 @@ This repository contains four datasets ([Twitch trace](https://clivecast.github.
 Use yasea to push stream from mobile phone
 [Broadcast](pic\broadcaster-android.png)
 
+### RTMP cluster deployment
+Reference: https://github.com/ossrs/srs/wiki/v1_CN_SampleRTMPCluster
+
 ### Cloud based solution
 Deploy the transcoding engine on the main server
 > .srs/objs/srs -c ../../livecast-code/all.transcode.conf
