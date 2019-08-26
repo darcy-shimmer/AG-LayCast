@@ -15,7 +15,7 @@ Obtain the location information of access point in Beijing.
 ## Data Format
 
 Access point.
-[APLOC](APInf.png)
+![APLOC](APInf.png)
 
 Base station
-[BSLOC](BSInf.png)
+![BSLOC](BSInf.png)
