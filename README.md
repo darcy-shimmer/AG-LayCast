@@ -7,6 +7,21 @@ This repository contains four datasets ([Twitch trace](https://clivecast.github.
 
 ### Build srs
 > cd AG-LayCast/srs/trunk
+
 > ./configure --with-ssl --with-http-api --with-hls --with-http-server --with-nginx --with-ffmpeg --with-transcode && make
 
 ## Usage
+### The original stream
+Use yasea to push stream from mobile phone
+[Broadcast](pic\broadcaster-android.png)
+
+### Cloud based solution
+Deploy the transcoding engine on the main server
+> .srs/objs/srs -c ../../livecast-code/all.transcode.conf
+
+### Edge based solution
+Deploy the transcoding engine on the edge server
+> .srs/objs/srs -c ../../livecast-code/all.transcode.conf
+
+### AG-LayCast
+coming soon...
