@@ -14,4 +14,5 @@ You need to refine the information of hosts in the script (server.py).
              {'ip':'10.28.202.222', 'port':22, 'username':'', 'password':'','id':3},)
 
 Start on port 8080
-<table><tr><td bgcolor=gray>python3 server.py</td></tr></table>
+
+> python3 server.py
