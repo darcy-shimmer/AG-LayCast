@@ -31,8 +31,13 @@ coming soon...
 
 ### Play RTMP
 rtmp://EdgeServersIP:port/live/livestream_1080P60fps
+
 rtmp://EdgeServersIP:port/live/livestream_1080P
+
 rtmp://EdgeServersIP:port/live/livestream_720P60fps
+
 rtmp://EdgeServersIP:port/live/livestream_720P
+
 rtmp://EdgeServersIP:port/live/livestream_480P
+
 rtmp://EdgeServersIP:port/live/livestream_360P
