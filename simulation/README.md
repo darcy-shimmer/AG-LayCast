@@ -2,7 +2,7 @@
 This directory contains emulation code and some related scripts
 
 ## Dependency
-[flask](https://github.com/pallets/flask)
+[Flask](https://github.com/pallets/flask) is a lightweight WSGI web application framework.
 > pip3 install flask
 
 ## Usage
