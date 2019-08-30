@@ -16,9 +16,9 @@ app = Flask(__name__)
 CORS(app, resources=r'/*')
 
 # the information of hosts
-host_list=({'ip':'10.108.87.195', 'port':22, 'username':'root', 'password':'123456','id':1},
-           {'ip':'10.108.87.166', 'port':22, 'username':'root', 'password':'123456','id':2},
-           {'ip':'10.28.202.222', 'port':22, 'username':'root', 'password':'123456','id':3},)
+host_list=({'ip':'10.108.87.195', 'port':22, 'username':'', 'password':'','id':1},
+           {'ip':'10.108.87.166', 'port':22, 'username':'', 'password':'','id':2},
+           {'ip':'10.28.202.222', 'port':22, 'username':'', 'password':'','id':3},)
 
 ssh_host = paramiko.SSHClient()
 
