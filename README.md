@@ -28,3 +28,6 @@ Deploy the transcoding engine on the edge server
 
 ### AG-LayCast
 coming soon...
+
+### Play RTMP
+rtmp://EdgeServersIP:port/live/livestream
